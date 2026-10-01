@@ -2,4 +2,6 @@ The repository contains files related with the DoDiEx proposal for the Project o
 
 List of data to be digitalized;
 
-Letters of intent from the Ukrainian institutions
+Letters of intent from the Ukrainian institutions;
+
+Data management plan
